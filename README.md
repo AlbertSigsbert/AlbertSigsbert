@@ -55,4 +55,5 @@
  </a> 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlbertSigsbert)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+
