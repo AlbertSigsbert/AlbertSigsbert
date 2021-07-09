@@ -19,7 +19,7 @@
   <img align="left" alt="Albert's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="Albert's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Albert's LinkedIn" width="45px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Albert's LinkedIn" width="22px" src="img/instagram.svg" />
