@@ -27,9 +27,8 @@
 <a href="#">
   <img align="left" alt="Albert's Youtube" width="22px" src="img/youtube.svg" />
 </a>
-
 </p>
-
+  &nbsp;
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
