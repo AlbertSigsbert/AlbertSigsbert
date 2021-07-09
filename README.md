@@ -22,7 +22,7 @@
   <img align="left" alt="Albert's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="Albert's LinkedIn" width="22px" src="img/instagram.jpg" />
+  <img align="left" alt="Albert's LinkedIn" width="22px" src="img/instagram.svg" />
 </a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
