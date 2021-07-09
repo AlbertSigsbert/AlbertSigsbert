@@ -54,3 +54,5 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  </a> 
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlbertSigsbert)](https://git.io/streak-stats)
