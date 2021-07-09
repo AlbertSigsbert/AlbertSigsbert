@@ -16,16 +16,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/albert_sigsbert/">
-  <img align="left" alt="Albert's Twitter" width="50px" src="img/twitter.svg" />
+  <img align="left" alt="Albert's Twitter" width="22px" src="img/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/albertsigsbert/">
-  <img align="left" alt="Albert's LinkedIn" width="50px" src="img/linkedin.svg" />
+  <img align="left" alt="Albert's LinkedIn" width="22px" src="img/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/albert_sigsbert/">
-  <img align="left" alt="Albert's Instagram" width="50px" src="img/instagram.svg" />
+  <img align="left" alt="Albert's Instagram" width="22px" src="img/instagram.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Albert's Youtube" width="50px" src="img/youtube.svg" />
+  <img align="left" alt="Albert's Youtube" width="22px" src="img/youtube.svg" />
 </a>
 
 </p>
