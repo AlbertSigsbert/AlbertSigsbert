@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](Banner.png)](your GitHub link)
 ### Hi there I'm Albert 👋
 
 
