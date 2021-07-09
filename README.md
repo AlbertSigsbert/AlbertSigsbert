@@ -1,6 +1,6 @@
-[![MasterHead](Banner.png)](https://github.com/AlbertSigsbert)
-### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
+### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,10 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 <!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/">
@@ -22,6 +20,9 @@
 </a>
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Albert's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img align="left" alt="Albert's LinkedIn" width="22px" src="img/instagram.jpg" />
 </a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
@@ -43,4 +44,3 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
