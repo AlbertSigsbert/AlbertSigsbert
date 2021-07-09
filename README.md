@@ -15,17 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/">
-  <img align="left" alt="Albert's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/albert_sigsbert/">
+  <img align="left" alt="Albert's Twitter" width="50px" src="img/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Albert's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/albertsigsbert/">
+  <img align="left" alt="Albert's LinkedIn" width="50px" src="img/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Albert's LinkedIn" width="45px" src="img/instagram.svg" />
+<a href="https://www.instagram.com/albert_sigsbert/">
+  <img align="left" alt="Albert's Instagram" width="50px" src="img/instagram.svg" />
 </a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="#">
+  <img align="left" alt="Albert's Youtube" width="50px" src="img/youtube.svg" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
