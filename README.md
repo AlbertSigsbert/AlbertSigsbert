@@ -11,9 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="right">
+
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
+
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
