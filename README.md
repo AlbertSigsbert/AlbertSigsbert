@@ -16,7 +16,10 @@
 - 💬 Ask me about any tech stack I'm familiar with.
 - 😄 Hobbies: Gaming, Watcing movies/series, watching football and video editing.
 
-<!--  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
+:tv:<h3 align="center">Latest Youtube Videos</h3>
+
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +58,6 @@
 </p>
 <h3 align="center">My Github Stats</h3>
 
- 
 <div align="center">    
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html"/>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true"/>
