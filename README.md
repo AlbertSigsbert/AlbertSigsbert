@@ -56,7 +56,7 @@
 <h3 align="center">My Github Stats</h3>
 
  
-<div>    
+<div align="center">    
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html"/>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true"/>
 <div>
