@@ -1,6 +1,8 @@
 [![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
- <img align="center" alt="Albert's Twitter"  src="https://visitor-badge.glitch.me/badge?page_id=AlbertSigsbert.visitor-badge" />
+<a href="https://badges.pufler.dev">
+  <img align="center" src="https://badges.pufler.dev/visits/AlbertSigsbert/AlbertSigsbert" />
+</a>
  
   
 
