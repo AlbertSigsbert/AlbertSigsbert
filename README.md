@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 </div>
-<div align="left">
+<div align="left" style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html" />
 </a>
