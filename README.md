@@ -64,17 +64,19 @@
 </p>
 <h3 align="center">My Github Stats</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&hide_border=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <div align="center">
   
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&hide_border=true" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html" />
 </a>
 </div>
 
