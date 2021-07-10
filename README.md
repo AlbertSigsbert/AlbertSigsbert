@@ -65,7 +65,7 @@
 <h3 align="center">My Github Stats</h3>
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&hide_border=true" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&fire=#e25822&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
