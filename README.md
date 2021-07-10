@@ -16,10 +16,7 @@
 - 💬 Ask me about any tech stack I'm familiar with.
 - 😄 Hobbies: Gaming, Watcing movies/series, watching football and video editing.
 
-### :tv: Latest Youtube Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
