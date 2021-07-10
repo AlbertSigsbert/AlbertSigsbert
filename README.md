@@ -1,5 +1,7 @@
 [![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertSigsbert.visitor-badge)
+
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on Laravel Projects
