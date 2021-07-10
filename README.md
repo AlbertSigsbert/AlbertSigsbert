@@ -63,19 +63,22 @@
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <h3 align="center">My Github Stats</h3>
-<div align="center">
+<!-- <div align="center">
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&fire=e25822&hide_border=true" />
 </a>
-</div>
+</div> -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 </div>
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html" />
+</a>
+  <a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&fire=e25822&hide_border=true" />
 </a>
 </div>
 
