@@ -1,9 +1,9 @@
 [![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
-<center>  
+ <img align="center" alt="Albert's Twitter"  src="https://visitor-badge.glitch.me/badge?page_id=AlbertSigsbert.visitor-badge />
+ 
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlbertSigsbert.visitor-badge)
-</center>
+
 
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
