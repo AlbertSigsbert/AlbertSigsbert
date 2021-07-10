@@ -3,6 +3,16 @@
 <a href="https://badges.pufler.dev">
   <img align="center" src="https://badges.pufler.dev/visits/AlbertSigsbert/AlbertSigsbert" />
 </a>
+
+<a href="https://badges.pufler.dev">
+  <img align="center" src="https://badges.pufler.dev/repos/AlbertSigsbert" />
+</a>
+
+<a href="https://badges.pufler.dev">
+  <img align="center" src="https://badges.pufler.dev/commits/monthly/AlbertSigsbert" />
+</a>
+ 
+ 
  
   
 
