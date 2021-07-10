@@ -12,11 +12,6 @@
   <img align="center" src="https://badges.pufler.dev/commits/monthly/AlbertSigsbert" />
 </a>
  
- 
- 
-  
-
-
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on Laravel Projects
@@ -69,7 +64,8 @@
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&layout=compact&hide_border=true&hide=sass,html"/>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&show_icons=true&theme=tokyonight&hide_border=true"/>
 <div>
+  &nbsp;
   
   <p align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&fire=e25822&hide_border=true" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=tokyonight&fire=e25822&hide_border=true" />
   </p>
