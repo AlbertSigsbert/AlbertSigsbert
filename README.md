@@ -1,16 +1,12 @@
 [![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
-<a href="https://badges.pufler.dev">
+ <div align="center">
   <img align="center" src="https://badges.pufler.dev/visits/AlbertSigsbert/AlbertSigsbert" />
-</a>
 
-<a href="https://badges.pufler.dev">
   <img align="center" src="https://badges.pufler.dev/repos/AlbertSigsbert" />
-</a>
 
-<a href="https://badges.pufler.dev">
   <img align="center" src="https://badges.pufler.dev/commits/monthly/AlbertSigsbert" />
-</a>
+</div>
  
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
