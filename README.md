@@ -47,5 +47,6 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlbertSigsbert&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertSigsbert&hide=prs&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
 
