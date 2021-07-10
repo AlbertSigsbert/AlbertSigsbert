@@ -52,6 +52,6 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertSigsbert&theme=tokyonight&hide_border=true&layout=compact&hide=sass,html)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
