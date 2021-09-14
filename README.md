@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on any project I'm familiar with its tech stack.
 - 💬 Ask me about any tech stack I'm familiar with.
-- 😄 Hobbies: Gaming, Watcing movies/series, watching football and video editing.
+- 😄 Hobbies: Gaming, Video Editing, Watching movies/series & football.
 
 
 
