@@ -11,7 +11,7 @@
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on building MERN stack projects
-- 🌱 I’m currently learning Graphql
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on any project I'm familiar with its tech stack.
 - 💬 Ask me about any tech stack I'm familiar with.
 - 😄 Hobbies: Gaming, Video Editing, Watching movies/series & football.
