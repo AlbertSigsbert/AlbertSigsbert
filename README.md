@@ -1,12 +1,5 @@
 [![MasterHead](img/Banner.png)](https://github.com/AlbertSigsbert)
 
- <div align="center">
-  <img align="center" src="https://badges.pufler.dev/visits/AlbertSigsbert/AlbertSigsbert" />
-
-  <img align="center" src="https://badges.pufler.dev/repos/AlbertSigsbert" />
-
-  <img align="center" src="https://badges.pufler.dev/commits/monthly/AlbertSigsbert" />
-</div>
  
 ### Hi there I'm Albert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
@@ -44,7 +37,6 @@
  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 <h3 align="center">My Github Stats</h3>
